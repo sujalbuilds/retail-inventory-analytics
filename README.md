@@ -8,8 +8,7 @@ A complete end-to-end data-driven solution for inventory analytics and decision 
 
 Access the real-time web dashboard hosted separately:
 
-🔗 [UrbanCo Inventory Management Dashboard (Live)](https://nwesha.github.io/Dashboard_urbanco_inventory_optimised/)
-*(Hosted on a different repo with frontend + JSON integration)*
+🔗 [UrbanCo Inventory Management Dashboard (Live)](https://inventory-dashboard-eosin-six.vercel.app/)
 
 ---
 
